@@ -6,3 +6,6 @@ test
 2024-08-22_02:36:41 push registry.k8s.io/pause:3.9  to registry.cn-shanghai.aliyuncs.com/sh-docker-images/pause:3.9 success
 2024-08-22_02:36:56 push docker.io/library/nginx:latest to registry.cn-shanghai.aliyuncs.com/sh-docker-images/nginx:latest success
 2024-08-22_02:37:06 push docker.io/library/centos:7 to registry.cn-shanghai.aliyuncs.com/sh-docker-images/centos:7 success
+2024-08-22_02:48:47 push registry.k8s.io/pause:3.9  to registry.cn-shanghai.aliyuncs.com/sh-docker-images/pause:3.9 success
+2024-08-22_02:48:53 push docker.io/library/nginx:latest to registry.cn-shanghai.aliyuncs.com/sh-docker-images/nginx:latest success
+2024-08-22_02:49:02 push docker.io/library/centos:7 to registry.cn-shanghai.aliyuncs.com/sh-docker-images/centos:7 success
