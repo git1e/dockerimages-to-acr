@@ -1,6 +1,6 @@
-# google
-k8s.gcr.io/ingress-nginx/controller:v0.45.0
+# k8s 
+registry.k8s.io/pause:3.9 
 # docker hub,centos:7
 docker.io/library/nginx:latest
-
+docker.io/library/centos:7
 # other images
