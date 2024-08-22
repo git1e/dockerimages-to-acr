@@ -7,8 +7,6 @@ on:
 env:
   ALIYUN_ACR_USER: ${{ secrets.ALIYUN_ACR_USER }}
   ALIYUN_ACR_PASSWORD: ${{ secrets.ALIYUN_ACR_PASSWORD }}
-  GH_TOKEN: ${{ secrets.GH_TOKEN }}
-  GIT_REPO: "github.com/git1e/dockerimages-to-acr.git"
 jobs:
   push_image_to_acr:
     runs-on: ubuntu-latest
@@ -34,10 +32,6 @@ jobs:
 
       - name: Commit and Push changes
         run: |
-          # git config user.name "${{secrets.GIT_NAME}}"
-          # git config user.email "${{secrets.GIT_EMAIL}}"
           git add push.log
           git commit -m "GitHub Actions Auto Builder"
-          # git remote add gh_origin  "https://x-access-token:${GH_TOKEN}@${GIT_REPO}"
-          # git push  --force --quiet  gh_origin main
           git push  --force --quiet  origin main
