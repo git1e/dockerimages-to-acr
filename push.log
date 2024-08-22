@@ -1,3 +1,5 @@
 test
 2024-08-22_01:58:20 Failed to pull k8s.gcr.io/ingress-nginx/controller:v0.45.0
 2024-08-22_01:58:20 push docker.io/library/nginx:latest to registry.cn-shanghai.aliyuncs.com/sh-docker-images/nginx:latest success
+2024-08-22_02:14:47 Failed to pull k8s.gcr.io/ingress-nginx/controller:v0.45.0
+2024-08-22_02:14:47 push docker.io/library/nginx:latest to registry.cn-shanghai.aliyuncs.com/sh-docker-images/nginx:latest success
