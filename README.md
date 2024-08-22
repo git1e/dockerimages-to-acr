@@ -1,4 +1,14 @@
 # push image to aliyun acr
+## 0、说明
+由于网络问题,国内下载有些镜像会失败。使用该github workflows脚本将镜像推送到阿里云ACR
+下载镜像，具体的目标镜像信息可以从push.log中查看:
+
+```
+docker pull  registry.k8s.io/pause:3.9  
+--->
+docker pull registry.cn-shanghai.aliyuncs.com/sh-docker-images/centos:7
+```
+
 ## 1、权限配置
 ### 1.1 Github Action权限配置
 项目-->settings-->actions-->general-->Workflow permissions
