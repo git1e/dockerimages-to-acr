@@ -13,3 +13,5 @@ test
 2024-08-23_09:09:24 push docker.io/library/nginx:latest to registry.cn-shanghai.aliyuncs.com/sh-docker-images/nginx:latest success
 2024-08-23_09:09:33 push docker.io/library/centos:7 to registry.cn-shanghai.aliyuncs.com/sh-docker-images/centos:7 success
 2024-08-23_09:09:41 push docker.io/library/python:3.12 to registry.cn-shanghai.aliyuncs.com/sh-docker-images/python:3.12 success
+2024-09-12_02:14:55 push registry.k8s.io/pause:3.9  to registry.cn-shanghai.aliyuncs.com/sh-docker-images/pause:3.9 success
+2024-09-12_02:15:02 push docker.io/apache/rocketmq-exporter:0.0.2 to registry.cn-shanghai.aliyuncs.com/sh-docker-images/rocketmq-exporter:0.0.2 success
