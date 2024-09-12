@@ -1,7 +1,5 @@
 # k8s 
 registry.k8s.io/pause:3.9 
 # docker hub,centos:7
-docker.io/library/nginx:latest
-docker.io/library/centos:7
-docker.io/library/python:3.12
+docker.io/apache/rocketmq-exporter:0.0.2
 # other images
