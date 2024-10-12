@@ -2,4 +2,5 @@
 registry.k8s.io/pause:3.9 
 # docker hub,centos:7
 docker.io/apache/rocketmq-exporter:0.0.2
+docker.io/ahahavip/rocketmq-dashboard:1.0.0-arm64
 # other images
