@@ -15,3 +15,6 @@ test
 2024-08-23_09:09:41 push docker.io/library/python:3.12 to registry.cn-shanghai.aliyuncs.com/sh-docker-images/python:3.12 success
 2024-09-12_02:14:55 push registry.k8s.io/pause:3.9  to registry.cn-shanghai.aliyuncs.com/sh-docker-images/pause:3.9 success
 2024-09-12_02:15:02 push docker.io/apache/rocketmq-exporter:0.0.2 to registry.cn-shanghai.aliyuncs.com/sh-docker-images/rocketmq-exporter:0.0.2 success
+2024-10-12_06:36:27 push registry.k8s.io/pause:3.9  to registry.cn-shanghai.aliyuncs.com/sh-docker-images/pause:3.9 success
+2024-10-12_06:36:33 push docker.io/apache/rocketmq-exporter:0.0.2 to registry.cn-shanghai.aliyuncs.com/sh-docker-images/rocketmq-exporter:0.0.2 success
+2024-10-12_06:36:43 push docker.io/ahahavip/rocketmq-dashboard:1.0.0-arm64 to registry.cn-shanghai.aliyuncs.com/sh-docker-images/rocketmq-dashboard:1.0.0-arm64 success
