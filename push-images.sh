@@ -5,6 +5,7 @@
 aliyun_acr_registry="registry.cn-shanghai.aliyuncs.com"
 aliyun_acr_namespace="sh-docker-images"
 echo ${ALIYUN_ACR_PASSWORD}|docker login --username=${ALIYUN_ACR_USER} --password-stdin  ${aliyun_acr_registry}
+cat img-list.txt
 while IFS= read -r image; do  
     # 跳过空行  
     if [ -z "$image" ]; then  
@@ -36,6 +37,8 @@ while IFS= read -r image; do
 	if [ $? -eq 0 ]
 	then
 		echo "${datetime} push ${image} to ${target_image_name} success">>push.log
+        # 将${target_image_name} 追加到 acr-image-list.txt
+        grep -q ${target_image_name} acr-image-list.txt || echo ${target_image_name} >> acr-image-list.txt
 	else
 		echo "${datetime} push ${image} to ${target_image_name} failed">>push.log
 	fi
