@@ -6,9 +6,11 @@ aliyun_acr_registry="registry.cn-shanghai.aliyuncs.com"
 aliyun_acr_namespace="sh-docker-images"
 echo ${ALIYUN_ACR_PASSWORD}|docker login --username=${ALIYUN_ACR_USER} --password-stdin  ${aliyun_acr_registry}
 cat img-list.txt
-while IFS= read -r image; do  
+while IFS= read -r image; do 
+    echo "Processing line: $image"
     # 跳过空行  
-    if [ -z "$image" ]; then  
+    if [ -z "$image" ]; then
+        echo "Skipping empty line"  
         continue  
     fi  
     # 检查是否是注释行  
@@ -38,7 +40,7 @@ while IFS= read -r image; do
 	then
 		echo "${datetime} push ${image} to ${target_image_name} success">>push.log
         # 将${target_image_name} 追加到 acr-image-list.txt
-        grep -q ${target_image_name} acr-image-list.txt || echo ${target_image_name} >> acr-image-list.txt
+        grep -q "${target_image_name}" acr-image-list.txt || echo "${target_image_name}" >> acr-image-list.txt
 	else
 		echo "${datetime} push ${image} to ${target_image_name} failed">>push.log
 	fi

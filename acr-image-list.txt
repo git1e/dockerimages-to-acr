@@ -7,4 +7,5 @@ registry.cn-shanghai.aliyuncs.com/sh-docker-images/prometheus-adapter:v0.12.0
 registry.cn-shanghai.aliyuncs.com/sh-docker-images/python:3.12
 registry.cn-shanghai.aliyuncs.com/sh-docker-images/rocketmq-dashboard:1.0.0-arm64
 registry.cn-shanghai.aliyuncs.com/sh-docker-images/rocketmq-exporter:0.0.2
-registry.cn-shanghai.aliyuncs.com/sh-docker-images/skywalking-ui:10.1.0registry.cn-shanghai.aliyuncs.com/sh-docker-images/skywalking-oap-server:10.1.0
+registry.cn-shanghai.aliyuncs.com/sh-docker-images/skywalking-ui:10.1.0
+registry.cn-shanghai.aliyuncs.com/sh-docker-images/skywalking-oap-server:10.1.0
