@@ -30,3 +30,4 @@ test
 2025-03-04_09:23:27 push docker.io/apache/skywalking-oap-server:10.1.0 to registry.cn-shanghai.aliyuncs.com/sh-docker-images/skywalking-oap-server:10.1.0 success
 2025-03-04_09:31:07 push docker.io/nginx:1.27.4 to registry.cn-shanghai.aliyuncs.com/sh-docker-images/nginx:1.27.4 success
 2025-03-04_09:31:34 push docker.io/apache/skywalking-ui:10.1.0 to registry.cn-shanghai.aliyuncs.com/sh-docker-images/skywalking-ui:10.1.0 success
+2025-03-04_09:43:04 push docker.io/nginx:1.26.3 to registry.cn-shanghai.aliyuncs.com/sh-docker-images/nginx:1.26.3 success
