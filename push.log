@@ -26,3 +26,5 @@ test
 2025-03-04_07:06:06 push docker.io/apache/skywalking-ui:10.1.0 to registry.cn-shanghai.aliyuncs.com/sh-docker-images/skywalking-ui:10.1.0 success
 2025-03-04_08:58:33 push docker.io/apache/skywalking-ui:10.1.0 to registry.cn-shanghai.aliyuncs.com/sh-docker-images/skywalking-ui:10.1.0 success
 2025-03-04_08:58:44 push docker.io/apache/skywalking-oap-server:10.1.0 to registry.cn-shanghai.aliyuncs.com/sh-docker-images/skywalking-oap-server:10.1.0 success
+2025-03-04_09:23:15 push docker.io/apache/skywalking-ui:10.1.0 to registry.cn-shanghai.aliyuncs.com/sh-docker-images/skywalking-ui:10.1.0 success
+2025-03-04_09:23:27 push docker.io/apache/skywalking-oap-server:10.1.0 to registry.cn-shanghai.aliyuncs.com/sh-docker-images/skywalking-oap-server:10.1.0 success
