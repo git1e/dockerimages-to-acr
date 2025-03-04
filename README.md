@@ -20,3 +20,14 @@ docker pull registry.cn-shanghai.aliyuncs.com/sh-docker-images/centos:7
 ![alt text](img/secrets_image.png)
 ## 2、将镜像信息写入img-list.txt问中
 ## 3、github action中执行脚本,将镜像推送到阿里云ACR
+## img-list.txt 示例
+```
+# k8s 
+registry.k8s.io/pause:3.9
+registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.12.0
+registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.14.0
+# docker hub,centos:7
+docker.io/apache/rocketmq-exporter:0.0.2
+docker.io/ahahavip/rocketmq-dashboard:1.0.0-arm64
+# other images
+```
