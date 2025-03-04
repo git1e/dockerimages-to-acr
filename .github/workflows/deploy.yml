@@ -33,5 +33,6 @@ jobs:
       - name: Commit and Push changes
         run: |
           git add push.log
+          git add acr-image-list.txt
           git commit -m "GitHub Actions Auto Builder"
           git push  --force --quiet  origin main

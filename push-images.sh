@@ -43,5 +43,3 @@ while IFS= read -r image; do
 		echo "${datetime} push ${image} to ${target_image_name} failed">>push.log
 	fi
 done < img-list.txt
-ls -lh
-cat push.log
