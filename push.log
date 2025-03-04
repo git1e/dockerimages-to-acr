@@ -23,3 +23,4 @@ test
 2024-11-20_08:21:49 push registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.14.0 to registry.cn-shanghai.aliyuncs.com/sh-docker-images/kube-state-metrics:v2.14.0 success
 2024-11-20_08:22:14 push docker.io/apache/rocketmq-exporter:0.0.2 to registry.cn-shanghai.aliyuncs.com/sh-docker-images/rocketmq-exporter:0.0.2 success
 2024-11-20_08:22:24 push docker.io/ahahavip/rocketmq-dashboard:1.0.0-arm64 to registry.cn-shanghai.aliyuncs.com/sh-docker-images/rocketmq-dashboard:1.0.0-arm64 success
+2025-03-04_07:06:06 push docker.io/apache/skywalking-ui:10.1.0 to registry.cn-shanghai.aliyuncs.com/sh-docker-images/skywalking-ui:10.1.0 success
