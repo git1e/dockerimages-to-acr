@@ -1,3 +1,2 @@
-docker.io/nginx:1.26.3
-docker.io/apache/skywalking-ui:10.0.0
+docker.io/python:3.13-slim
 #
