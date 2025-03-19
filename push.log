@@ -34,3 +34,5 @@ test
 2025-03-04_09:50:17 push docker.io/nginx:1.26.3 to registry.cn-shanghai.aliyuncs.com/sh-docker-images/nginx:1.26.3 success
 2025-03-04_09:50:35 push docker.io/apache/skywalking-ui:10.0.0 to registry.cn-shanghai.aliyuncs.com/sh-docker-images/skywalking-ui:10.0.0 success
 2025-03-11_08:57:23 push docker.io/python:3.13-slim to registry.cn-shanghai.aliyuncs.com/sh-docker-images/python:3.13-slim success
+2025-03-19_05:56:00 push docker.io/python:3.12 to registry.cn-shanghai.aliyuncs.com/sh-docker-images/python:3.12 success
+2025-03-19_05:56:56 push ghcr.io/astral-sh/uv:0.6.7 to registry.cn-shanghai.aliyuncs.com/sh-docker-images/uv:0.6.7 success
