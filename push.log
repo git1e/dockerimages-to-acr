@@ -36,3 +36,30 @@ test
 2025-03-11_08:57:23 push docker.io/python:3.13-slim to registry.cn-shanghai.aliyuncs.com/sh-docker-images/python:3.13-slim success
 2025-03-19_05:56:00 push docker.io/python:3.12 to registry.cn-shanghai.aliyuncs.com/sh-docker-images/python:3.12 success
 2025-03-19_05:56:56 push ghcr.io/astral-sh/uv:0.6.7 to registry.cn-shanghai.aliyuncs.com/sh-docker-images/uv:0.6.7 success
+2025-04-27_08:21:02 push certbot/certbot to registry.cn-shanghai.aliyuncs.com/sh-docker-images/certbot success
+2025-04-27_08:21:25 push container-registry.oracle.com/database/free:latest to registry.cn-shanghai.aliyuncs.com/sh-docker-images/free:latest success
+2025-04-27_08:25:50 push docker.elastic.co/elasticsearch/elasticsearch:8.14.3 to registry.cn-shanghai.aliyuncs.com/sh-docker-images/elasticsearch:8.14.3 success
+2025-04-27_08:27:16 push docker.elastic.co/kibana/kibana:8.14.3 to registry.cn-shanghai.aliyuncs.com/sh-docker-images/kibana:8.14.3 success
+2025-04-27_08:28:43 push downloads.unstructured.io/unstructured-io/unstructured-api:latest to registry.cn-shanghai.aliyuncs.com/sh-docker-images/unstructured-api:latest success
+2025-04-27_08:36:40 push ghcr.io/chroma-core/chroma:0.5.20 to registry.cn-shanghai.aliyuncs.com/sh-docker-images/chroma:0.5.20 success
+2025-04-27_08:37:12 push langgenius/dify-api:1.3.0 to registry.cn-shanghai.aliyuncs.com/sh-docker-images/dify-api:1.3.0 success
+2025-04-27_08:38:52 Failed to pull langgenius/dify-plugin-daemon:0.0.9-local
+2025-04-27_08:38:58 push langgenius/dify-sandbox:0.2.11 to registry.cn-shanghai.aliyuncs.com/sh-docker-images/dify-sandbox:0.2.11 success
+2025-04-27_08:39:31 Failed to pull langgenius/dify-web:1.3.0
+2025-04-27_08:39:33 Failed to pull langgenius/qdrant:v1.7.3
+2025-04-27_08:39:35 Failed to pull milvusdb/milvus:v2.5.0-beta
+2025-04-27_08:39:37 Failed to pull minio/minio:RELEASE.2023-03-20T20-16-18Z
+2025-04-27_08:39:38 Failed to pull myscale/myscaledb:1.6.4
+2025-04-27_08:39:41 Failed to pull nginx:latest
+2025-04-27_08:39:43 Failed to pull oceanbase/oceanbase-ce:4.3.5.1-101000042025031818
+2025-04-27_08:39:46 Failed to pull opengauss/opengauss:7.0.0-RC1
+2025-04-27_08:39:47 Failed to pull opensearchproject/opensearch-dashboards:latest
+2025-04-27_08:39:50 Failed to pull opensearchproject/opensearch:latest
+2025-04-27_08:39:51 Failed to pull pgvector/pgvector:pg16
+2025-04-27_08:39:53 Failed to pull postgres:15-alpine
+2025-04-27_08:39:56 Failed to pull quay.io/coreos/etcd:v3.5.5
+2025-04-27_08:40:05 push redis:6-alpine to registry.cn-shanghai.aliyuncs.com/sh-docker-images/redis:6-alpine success
+2025-04-27_08:40:23 push semitechnologies/weaviate:1.19.0 to registry.cn-shanghai.aliyuncs.com/sh-docker-images/weaviate:1.19.0 success
+2025-04-27_08:40:37 Failed to pull tensorchord/pgvecto-rs:pg16-v0.3.0
+2025-04-27_08:40:40 Failed to pull ubuntu/squid:latest
+2025-04-27_08:40:41 Failed to pull vastdata/vastbase-vector
