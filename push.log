@@ -63,3 +63,4 @@ test
 2025-04-27_08:40:37 Failed to pull tensorchord/pgvecto-rs:pg16-v0.3.0
 2025-04-27_08:40:40 Failed to pull ubuntu/squid:latest
 2025-04-27_08:40:41 Failed to pull vastdata/vastbase-vector
+2025-05-07_09:57:38 push codiumai/pr-agent:latest to registry.cn-shanghai.aliyuncs.com/sh-docker-images/pr-agent:latest success
