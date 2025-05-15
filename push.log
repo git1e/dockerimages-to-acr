@@ -64,3 +64,5 @@ test
 2025-04-27_08:40:40 Failed to pull ubuntu/squid:latest
 2025-04-27_08:40:41 Failed to pull vastdata/vastbase-vector
 2025-05-07_09:57:38 push codiumai/pr-agent:latest to registry.cn-shanghai.aliyuncs.com/sh-docker-images/pr-agent:latest success
+2025-05-15_10:19:14 push ghcr.io/ilogtail/config-server:latest to registry.cn-shanghai.aliyuncs.com/sh-docker-images/config-server:latest success
+2025-05-15_10:19:29 push ghcr.io/ilogtail/config-server-ui:latest to registry.cn-shanghai.aliyuncs.com/sh-docker-images/config-server-ui:latest success

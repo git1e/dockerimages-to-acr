@@ -25,3 +25,5 @@ registry.cn-shanghai.aliyuncs.com/sh-docker-images/dify-sandbox:0.2.11
 registry.cn-shanghai.aliyuncs.com/sh-docker-images/redis:6-alpine
 registry.cn-shanghai.aliyuncs.com/sh-docker-images/weaviate:1.19.0
 registry.cn-shanghai.aliyuncs.com/sh-docker-images/pr-agent:latest
+registry.cn-shanghai.aliyuncs.com/sh-docker-images/config-server:latest
+registry.cn-shanghai.aliyuncs.com/sh-docker-images/config-server-ui:latest
