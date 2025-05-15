@@ -1,2 +1,3 @@
-codiumai/pr-agent:latest
+ghcr.io/ilogtail/config-server:latest
+ghcr.io/ilogtail/config-server-ui:latest
 #
