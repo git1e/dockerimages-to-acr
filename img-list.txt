@@ -1,2 +1,2 @@
-kindest-node:v1.32.2
+kindest/node:v1.30.13
 #
