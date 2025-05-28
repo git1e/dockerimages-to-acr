@@ -1,3 +1,2 @@
-ghcr.io/ilogtail/config-server:latest
-ghcr.io/ilogtail/config-server-ui:latest
+kindest-node:v1.32.2
 #
