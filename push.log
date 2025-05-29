@@ -68,3 +68,4 @@ test
 2025-05-15_10:19:29 push ghcr.io/ilogtail/config-server-ui:latest to registry.cn-shanghai.aliyuncs.com/sh-docker-images/config-server-ui:latest success
 2025-05-28_07:33:50 Failed to pull kindest-node:v1.32.2
 2025-05-28_07:42:29 push kindest/node:v1.30.13 to registry.cn-shanghai.aliyuncs.com/sh-docker-images/node:v1.30.13 success
+2025-05-29_03:36:53 push ghcr.io/stefanprodan/podinfo:6.2.3 to registry.cn-shanghai.aliyuncs.com/sh-docker-images/podinfo:6.2.3 success
