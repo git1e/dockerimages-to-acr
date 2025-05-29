@@ -1,2 +1,2 @@
-kindest/node:v1.30.13
+ghcr.io/stefanprodan/podinfo:6.2.3
 #
