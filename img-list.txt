@@ -1,2 +1,2 @@
-ghcr.io/stefanprodan/podinfo:6.2.3
+luxas/autoscale-demo:v0.1.2
 #
