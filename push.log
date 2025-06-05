@@ -70,3 +70,4 @@ test
 2025-05-28_07:42:29 push kindest/node:v1.30.13 to registry.cn-shanghai.aliyuncs.com/sh-docker-images/node:v1.30.13 success
 2025-05-29_03:36:53 push ghcr.io/stefanprodan/podinfo:6.2.3 to registry.cn-shanghai.aliyuncs.com/sh-docker-images/podinfo:6.2.3 success
 2025-06-03_07:22:22 push luxas/autoscale-demo:v0.1.2 to registry.cn-shanghai.aliyuncs.com/sh-docker-images/autoscale-demo:v0.1.2 success
+2025-06-05_03:33:02 push registry.k8s.io/metrics-server/metrics-server:v0.7.2 to registry.cn-shanghai.aliyuncs.com/sh-docker-images/metrics-server:v0.7.2 success
