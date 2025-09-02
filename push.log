@@ -72,3 +72,4 @@ test
 2025-06-03_07:22:22 push luxas/autoscale-demo:v0.1.2 to registry.cn-shanghai.aliyuncs.com/sh-docker-images/autoscale-demo:v0.1.2 success
 2025-06-05_03:33:02 push registry.k8s.io/metrics-server/metrics-server:v0.7.2 to registry.cn-shanghai.aliyuncs.com/sh-docker-images/metrics-server:v0.7.2 success
 2025-08-23_11:13:17 push registry.k8s.io/pause:3.10 to registry.cn-shanghai.aliyuncs.com/sh-docker-images/pause:3.10 success
+2025-09-02_03:35:30 push gcr.io/google-samples/gb-frontend:v5 to registry.cn-shanghai.aliyuncs.com/sh-docker-images/gb-frontend:v5 success
